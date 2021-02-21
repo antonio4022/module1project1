@@ -1,0 +1,135 @@
+body {
+  margin:0px;
+}
+#header {
+  display: flex;
+  justify-content: space-between;
+  background-color: chocolate;
+  margin-top: 0PX;
+  height: 125px;
+}
+
+.menu {
+  display: flex;
+margin-top: 0PX;
+}
+
+.menu ul {
+      display: flex;
+      list-style-type: none;
+      margin-top: 0px;
+      margin-bottom: 0px;
+}
+
+.menu li {
+  margin-left: 40px;
+  padding-right: 10px;
+}
+.logo {
+  margin-left: 70px;
+  margin-top: 0px;
+}
+.logo h1{
+  margin-top: 0px;
+  margin-bottom: 20px;
+}
+
+#container-1 {
+  display: flex;
+  line-height: 380%;
+  background-color: rgb(197, 188, 188);
+}
+
+#cont-1-para-1 {
+  margin-left: 100px;
+  margin-top: 100px;
+  width: 40%;
+}
+#img-1 img {
+  width: 60%;
+  margin-left: 120px;;
+}
+#container-2 {
+  justify-content: space-between ;
+  margin: 0px;
+  padding: 0px;
+  display: flex;
+ height:400px;
+  background-color: rgb(165, 153, 153);
+  }
+
+  .cont-2-para-1 {
+    width: 50%;
+    margin-left: 100px;
+    margin-right: 40px;
+  }
+  .cont-2-para-2 {
+    width: 40%;
+    margin-right:20px ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  #container-3 {
+    margin:0px;
+    padding: 0px;
+   height: 480px;
+    background-color: rgb(197, 188, 188);
+  }
+  .ourservices{
+    height:250px;
+    width: 200px;
+    margin-left: 20px;
+  }
+  .ourservices img{
+    height: 202px;
+    width: 100%;
+    justify-content: center;
+  }
+  .ourteam{
+    width:200px;
+    height: 250px;
+    margin-right: 20px;
+  }
+  .ourteam img{
+    width: 100%;
+    height: 202px;
+    justify-content: center;
+  }
+    .refrences{
+      width: 200px;
+    height: 250px;
+    margin-right: 20px;
+  }
+  .refrences img{
+    width: 100%;
+    height: 202px;
+    justify-content: center;
+  }
+  .pressrelease{
+    height: 250px;
+    width:200px;
+    margin-right: 20px;
+  }
+  .pressrelease img{
+    width: 100%;
+    justify-content: center;
+    height:202px;
+  }
+  .reads {
+    margin-left: 5%;
+    margin-right: 5%;
+    display: flex;
+    align-items: flex-end;
+   justify-content: space-between; 
+  }
+  .reads h4 {
+    font-weight: bold;
+    margin-left: 50px;
+    margin-top: 0px;
+    
+  }
+  #why-us h4 {
+margin-left:110px ;
+margin-top: 0px;
+  }
+
+
